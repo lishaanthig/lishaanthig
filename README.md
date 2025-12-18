@@ -64,7 +64,7 @@ attractive, and user-friendly interface.
 </ul>
 <p align="center">
   🌐 <strong>My Portfolio:</strong>
-  <a href="" target="_blank">
+  <a href="https://lishaanthig.github.io/lishaanthi-portfolio/" target="_blank">
     Visit My Portfolio Website
   </a>
 </p>
